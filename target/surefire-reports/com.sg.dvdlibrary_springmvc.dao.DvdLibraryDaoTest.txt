@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.dvdlibrary_springmvc.dao.DvdLibraryDaoTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.763 sec
